@@ -39,8 +39,8 @@ Each client has a bucket that starts full. Tokens are replenished continuously a
 
 Clone the repository:
 
-    git clone YOUR-REPOSITORY-URL
-    cd python_tiny_ratelimit
+    git clone https://github.com/rohitverma1990/python-tiny-ratelimit.git
+    cd python-tiny-ratelimit
 
 The project has no third-party runtime dependencies. To run the example from the repository root:
 
